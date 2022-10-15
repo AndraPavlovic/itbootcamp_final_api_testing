@@ -1,5 +1,5 @@
 ## Features
-   Vuetify
+*  Vuetify
 *   Multiple environment ready (development, production).
 *   Vue router
 *   Vuex
