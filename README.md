@@ -22,3 +22,6 @@
 *   Ability to refresh token
 *   JWT Tokens, make requests with a token after login with `Authorization` header with value `Bearer yourToken` where `yourToken` is the **signed and encrypted token** given in the response from the login process.
 *   Chai Assertion Library
+
+
+Link for final api testing project: https://documenter.getpostman.com/view/23502958/2s847BSFCz
